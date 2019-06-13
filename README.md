@@ -37,7 +37,9 @@ void init_sdk()
 
 ### Credits
 
+```
 Hinnie (UnknownCheats)
 CorrM (UnknownCheats)
 Wyverns (UnknownCheats)
 KN4CK3R (https://github.com/KN4CK3R)
+```
